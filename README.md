@@ -2,7 +2,7 @@
 <h3 align="center">Learning Full Stack developer</h3>
 <img align="right" alt="coding" width="100"src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="amishaasharma" /> </p>
+<p align="left"> <img width="100" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="amishaasharma" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
