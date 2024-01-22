@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amisha Sharma</h1>
 <h3 align="center">Learning Full Stack developer</h3>
 
-<p align="left"> <img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="amishaasharma" /> </p>
+<p align="left"> <img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="amishaasharma" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
